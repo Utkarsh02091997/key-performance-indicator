@@ -1,0 +1,2 @@
+User,OpenAI API-Key,Plugin,Application,Timestamp,Details,Count,User Request,LLM Generated Response,Updated Response,Correctness Percentage
+John Doe,your-api-key,your-plugin,your-application,2022-01-01T12:00:00,some details,42,null,null,null,null
